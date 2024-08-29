@@ -20,7 +20,7 @@ function dismiss() {
 
 <template>
   <div class="banner banner-vuejsconf" v-if="open">
-    <a href="https://conf.vuejs.de/?utm_source=vuejs&utm_medium=referral&utm_campaign=banner-placement&utm_content=banner"
+    <a href="https://conf.vuejs.de/tickets?voucher=COMMUNITY&utm_source=vuejs&utm_medium=referral&utm_campaign=banner-placement&utm_content=banner"
       target="_blank">
       <picture>
         <source media="(min-width:1200px)" srcset="/images/vuejsde-conf/vuejsdeconf_banner_large_general.png" />
